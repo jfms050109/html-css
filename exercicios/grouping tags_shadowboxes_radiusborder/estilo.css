@@ -1,0 +1,41 @@
+body{background-color: #662A88;}
+footer p{
+    background-color: whitesmoke;
+    margin: 60px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.53);
+}
+
+header a{
+    color: #351349;
+}
+header a:hover{
+    color: white;
+}
+footer a{color: #662A88;}
+main section p{
+    font-size: 70px;
+    background-color: whitesmoke;
+    margin: 30;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.53);
+}
+header{
+    background-color: #351349;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.53);
+}
+main article p{
+    margin: 15px;
+}
+main article{
+    background-color: whitesmoke;
+    margin-top: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: justify;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.53);
+
+}
+
